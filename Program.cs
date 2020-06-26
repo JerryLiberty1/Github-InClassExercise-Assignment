@@ -7,6 +7,7 @@ namespace Github_InClassExercise_7
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Jerry Sync Demo");
         }
     }
 }
