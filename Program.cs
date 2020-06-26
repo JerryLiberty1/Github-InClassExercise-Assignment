@@ -9,6 +9,7 @@ namespace Github_InClassExercise_7
             Console.WriteLine("Hello World!");
             Console.WriteLine("Jerry Sync Demo");
             Console.WriteLine("Jerry loves to eat yogurt "); //by manoj
+            Console.WriteLine("Jerry loves uncle Karl"); //by Hemu
         }
     }
 }
